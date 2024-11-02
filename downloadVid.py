@@ -35,7 +35,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
+download_video("https://www.instagram.com/stories/alviseperez/")
 # Example usage
 # download_video('https://www.instagram.com/reel/abcdefghijk/')
 # download_video('https://www.youtube.
